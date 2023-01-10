@@ -1,0 +1,9 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://whisky.hemiron.com:8080
+functions:
+  serverless-template-node:
+    lang: node
+    handler: ./src
+    image: docker-hub-username/serverless-template-node:latest

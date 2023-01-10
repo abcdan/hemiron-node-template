@@ -1,2 +1,1 @@
-# hemiron-node-template
-The official Hemiron serverless Node.js template
+Follow the official Guide provided by Hemiron to use this template.
